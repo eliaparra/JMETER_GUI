@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1659638757361,1317,HomePage,200,OK,Thread Group 1-1,text,true,,39293,138,1,1,https://opensource-demo.orangehrmlive.com/,1202,0,925
